@@ -8,3 +8,4 @@ Plan:
 ______________________________________________________________
 Log:
 2019-04-04: Added fully functional game. No gui no AI, gonna do that tommorrow
+2019-04-05: Added simple AI, not finished, no gui
